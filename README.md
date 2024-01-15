@@ -1,8 +1,8 @@
 # ##################################
 #
-# This is ELO reward system projects
+# This is Trump Biden ICO
 
-# `elo-project`
+# `TBI-project`
 
 > React components and hooks for fast building dApps without running own backend
 
